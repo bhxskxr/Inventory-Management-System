@@ -30,11 +30,11 @@ A dynamic Inventory Management System built using C++ and Data Structures concep
   Products are saved to and read from text files.
 
 ## 📂 File Structure
-- `Inventory_Management_CompletelyFixed.cpp`: Main source file
+- `Inventory_Management_Sysyem.cpp`: Main source file
 - `billrecord.txt`: Generated billing record
 - `Products_Record.txt`: Saved product data
 
 ## 🚀 How to Run
 ```bash
-g++ Inventory_Management_CompletelyFixed.cpp -o inventory
+g++ Inventory_Management_System.cpp -o inventory
 ./inventory
