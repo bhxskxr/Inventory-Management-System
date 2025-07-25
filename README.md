@@ -1,6 +1,3 @@
-# Inventory-Management-System
-A C++ Inventory Management System using Linked List for dynamic product handling.
-
 # Inventory Management System (C++)
 
 A dynamic Inventory Management System built using C++ and Data Structures concepts. This project simulates an inventory store where you can add, modify, delete, buy, and manage products in memory with the ability to store data in files.
